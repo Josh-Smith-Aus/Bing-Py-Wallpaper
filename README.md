@@ -1,2 +1,2 @@
 # Bing-Py-Wallpaper
-Simple py script that runs on start to change wallpaper to the days picture and saves it in User/Pictures/BingWallpers
+Simple py script for Windows that runs on start to change wallpaper to the days picture and saves it in User/Pictures/BingWallpers
